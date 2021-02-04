@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!$HOME/anaconda3/bin/python3
 import fire
 
 def greet(people="KD"):
